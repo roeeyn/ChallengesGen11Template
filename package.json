@@ -1,0 +1,24 @@
+
+{
+  "name": "challenges-for-gen-11",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Repo with all the challenges for the generation 11",
+  "main": "main.js",
+  "scripts": {
+    "test-0": "jest Challenge0/challenge0.test.js",
+    "test-1": "jest Challenge1/challenge1.test.js",
+    "test-2": "jest Challenge2/challenge2.test.js",
+    "test-3": "jest Challenge3/challenge3.test.js",
+    "test-4": "jest Challenge4/challenge4.test.js",
+    "test-5": "jest Challenge5/challenge5.test.js",
+    "test-6": "jest Challenge6/challenge6.test.js",
+    "test": "jest"
+  },
+  "keywords": ["Hackademy", "challenges", "prepadawans"],
+  "author": "Rodrigo Medina @roeeyn",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.2.1"
+  }
+}
