@@ -1,4 +1,3 @@
-
 {
   "name": "challenges-for-gen-11",
   "private": true,
@@ -15,7 +14,11 @@
     "test-6": "jest Challenge6/challenge6.test.js",
     "test": "jest"
   },
-  "keywords": ["Hackademy", "challenges", "prepadawans"],
+  "keywords": [
+    "Hackademy",
+    "challenges",
+    "prepadawans"
+  ],
   "author": "Rodrigo Medina @roeeyn",
   "license": "ISC",
   "devDependencies": {
